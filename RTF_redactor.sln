@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTF_redactor", "RTF_redactor.csproj", "{66A1F7FA-3A4E-407B-82B1-32AC88EFE5CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66A1F7FA-3A4E-407B-82B1-32AC88EFE5CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66A1F7FA-3A4E-407B-82B1-32AC88EFE5CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66A1F7FA-3A4E-407B-82B1-32AC88EFE5CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66A1F7FA-3A4E-407B-82B1-32AC88EFE5CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19946CBD-098B-4846-A622-41453EAD5842}
+	EndGlobalSection
+EndGlobal
